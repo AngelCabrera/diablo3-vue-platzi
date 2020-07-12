@@ -10,3 +10,9 @@ export default {
   name: 'LoadLayout'
 }
 </script>
+
+.loading-layout
+  height 100vh
+  display flex
+  align-items center
+  justify-content center
